@@ -1,11 +1,11 @@
-# Budget App (Flutter)
+Wallet App
 
 This project is a simple expense tracking application built with Flutter.  
 Users can add expenses using a price and description, view them in a list, and delete them.
 
 ---
 
-# Features
+ Features
 
 - Add expenses (price + description)
 - Display expenses in a list
@@ -16,7 +16,7 @@ Users can add expenses using a price and description, view them in a list, and d
 
 ---
 
-# 🛠️ Technologies Used
+ Technologies Used
 
 - Flutter
 - Dart
@@ -26,25 +26,25 @@ Users can add expenses using a price and description, view them in a list, and d
 
 ---
 
-# UI Overview
+ UI Overview
 
-## First Page
+ First Page
 
 - Body:
   - Text
   - ElevatedButton (navigates to the second page)
 
-## Second Page
+ Second Page
 
 - AppBar: "Add Expense"
 
-### Top Section:
+  Top Section:
 
 - Price input field
 - Description input field
 - Add button
 
-### Bottom Section:
+ Bottom Section:
 
 - List of expenses (Card + ListTile)
 - Delete button
